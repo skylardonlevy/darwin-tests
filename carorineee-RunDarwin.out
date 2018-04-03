@@ -1,0 +1,397 @@
+*** Darwin 8x8 ***
+Turn = 0.
+  01234567
+0 f.......
+1 ........
+2 ........
+3 ...hh...
+4 ...hh...
+5 ........
+6 ........
+7 .......f
+
+Turn = 1.
+  01234567
+0 f.......
+1 ........
+2 ...h....
+3 .....h..
+4 ..h.....
+5 ....h...
+6 ........
+7 .......f
+
+Turn = 2.
+  01234567
+0 f.......
+1 ...h....
+2 ........
+3 ......h.
+4 .h......
+5 ........
+6 ....h...
+7 .......f
+
+Turn = 3.
+  01234567
+0 f..h....
+1 ........
+2 ........
+3 .......h
+4 h.......
+5 ........
+6 ........
+7 ....h..f
+
+Turn = 4.
+  01234567
+0 f..h....
+1 ........
+2 ........
+3 .......h
+4 h.......
+5 ........
+6 ........
+7 ....h..f
+
+Turn = 5.
+  01234567
+0 f..h....
+1 ........
+2 ........
+3 .......h
+4 h.......
+5 ........
+6 ........
+7 ....h..f
+
+*** Darwin 7x9 ***
+Turn = 0.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ..h......
+4 .........
+5 ....r....
+6 ........t
+
+Turn = 1.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ...h.....
+4 ....r....
+5 .........
+6 ........t
+
+Turn = 2.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ....r....
+4 ....r....
+5 .........
+6 ........t
+
+Turn = 3.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ....rr...
+4 .........
+5 .........
+6 ........t
+
+Turn = 4.
+  012345678
+0 t........
+1 .........
+2 ....r....
+3 ......r..
+4 .........
+5 .........
+6 ........t
+
+Turn = 5.
+  012345678
+0 t........
+1 ....r....
+2 .........
+3 .......r.
+4 .........
+5 .........
+6 ........t
+
+*** Darwin 1x1 ***
+Turn = 0.
+  0
+0 h
+
+Turn = 5.
+  0
+0 h
+
+*** Darwin 6x6 ***
+Turn = 0.
+  012345
+0 frthrr
+1 frthrr
+2 trtrrr
+3 frthrr
+4 frthrr
+5 trtrr.
+
+Turn = 2.
+  012345
+0 frrrrr
+1 trrrrr
+2 trrrrr
+3 frrrrr
+4 trrrrr
+5 trrrr.
+
+Turn = 4.
+  012345
+0 rtrrrr
+1 ttrrrr
+2 rrrrrr
+3 rtrrrr
+4 ttrrr.
+5 rrrrrr
+
+*** Darwin 7x7 ***
+Turn = 0.
+  0123456
+0 htttrr.
+1 frtfrr.
+2 trrthr.
+3 frthrt.
+4 frthfr.
+5 hrthrr.
+6 httff..
+
+Turn = 5.
+  0123456
+0 ttttt.r
+1 ttttt.r
+2 ttttrt.
+3 trtrrt.
+4 rttr.r.
+5 tttrr.r
+6 tttttr.
+
+*** Darwin 2x2 ***
+Turn = 0.
+  01
+0 hh
+1 hh
+
+Turn = 1.
+  01
+0 hh
+1 hh
+
+Turn = 2.
+  01
+0 hh
+1 hh
+
+Turn = 3.
+  01
+0 hh
+1 hh
+
+*** Darwin 9x9 ***
+Turn = 0.
+  012345678
+0 htttrrffr
+1 rtftrrfft
+2 rtftrrfff
+3 rtftrrffr
+4 rtftrrffr
+5 rtftrrfft
+6 rtftrrfft
+7 rtftrrfff
+8 rtftrrff.
+
+Turn = 1.
+  012345678
+0 rttttrrfr
+1 rtfttrrrr
+2 rtfttrrff
+3 rtfttrrrr
+4 rtfttrrfr
+5 rtfttrrfr
+6 rtfttrrft
+7 rtfttrrft
+8 ttfttrrf.
+
+Turn = 2.
+  012345678
+0 rttttrrfr
+1 rtfttrrrr
+2 rtfttrrff
+3 rtfttrrrr
+4 rtfttrrfr
+5 rtfttrrfr
+6 rtfttrrfr
+7 ttfttrrfr
+8 ttfttrrf.
+
+Turn = 3.
+  012345678
+0 rtttttrrr
+1 rrttttttr
+2 rttttrrtr
+3 rtttttttr
+4 rttttttrr
+5 rttttrrtr
+6 ttttttttr
+7 ttttttrr.
+8 ttttttrfr
+
+Turn = 4.
+  012345678
+0 trttttrrr
+1 rrttttttr
+2 rrtttrrtr
+3 rttttttrr
+4 rttttttrr
+5 tttttrttr
+6 tttttttrr
+7 ttttttrr.
+8 tttttrrfr
+
+Turn = 5.
+  012345678
+0 rrtttttrr
+1 rrttttttt
+2 rrttttttt
+3 rrtttttrr
+4 ttttttttt
+5 ttttttttt
+6 tttttttrr
+7 tttttttt.
+8 tttttrrrr
+
+*** Darwin 6x6 ***
+Turn = 0.
+  012345
+0 r.....
+1 .ftf..
+2 .thf..
+3 .t....
+4 ....f.
+5 .....r
+
+Turn = 1.
+  012345
+0 .r....
+1 .ftf..
+2 .ttf..
+3 .t....
+4 ....f.
+5 .....r
+
+Turn = 2.
+  012345
+0 ..r...
+1 .ttf..
+2 .ttf..
+3 .t....
+4 ....f.
+5 .....r
+
+Turn = 3.
+  012345
+0 ...r..
+1 .ttf..
+2 .ttf..
+3 .t....
+4 ....f.
+5 .....r
+
+Turn = 4.
+  012345
+0 ....r.
+1 .ttf..
+2 .ttt..
+3 .t....
+4 ....f.
+5 .....r
+
+Turn = 5.
+  012345
+0 .....r
+1 .ttt..
+2 .ttt..
+3 .t....
+4 ....f.
+5 ....r.
+
+*** Darwin 2x2 ***
+Turn = 0.
+  01
+0 h.
+1 .h
+
+Turn = 1.
+  01
+0 .h
+1 h.
+
+Turn = 2.
+  01
+0 .h
+1 h.
+
+Turn = 3.
+  01
+0 .h
+1 h.
+
+Turn = 4.
+  01
+0 .h
+1 h.
+
+Turn = 5.
+  01
+0 .h
+1 h.
+
+*** Darwin 2x2 ***
+Turn = 0.
+  01
+0 f.
+1 .f
+
+Turn = 1.
+  01
+0 f.
+1 .f
+
+Turn = 2.
+  01
+0 f.
+1 .f
+
+Turn = 3.
+  01
+0 f.
+1 .f
+
+Turn = 4.
+  01
+0 f.
+1 .f
+
+Turn = 5.
+  01
+0 f.
+1 .f
+
