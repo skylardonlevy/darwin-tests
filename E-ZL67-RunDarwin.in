@@ -1,0 +1,249 @@
+7
+
+15 15
+16
+r 10 9 e
+r 1 2 s
+t 12 11 n
+t 6 2 s
+f 3 7 e
+r 14 13 w
+h 5 12 n
+f 12 0 s
+h 2 11 e
+r 9 3 n
+r 7 10 e
+f 5 9 w
+t 10 10 n
+f 4 12 n
+f 7 2 s
+f 9 10 e
+6 1
+
+1 5
+5
+r 0 0 e
+h 0 1 n
+h 0 2 n
+h 0 3 n
+h 0 4 n
+5 1
+
+5 5
+8
+r 0 0 e
+h 4 4 n
+t 0 4 s
+h 4 0 w
+h 0 0 e
+t 4 4 s
+f 0 4 w
+r 4 0 n
+8 2
+
+20 20
+40
+r 12 3 e
+h 9 16 s
+t 0 1 n
+f 0 0 s
+r 9 9 w
+f 10 10 s
+r 1 1 e
+r 3 7 w
+r 8 10 n
+h 13 17 e
+h 19 19 n
+r 18 2 w
+r 14 3 n
+t 5 5 s
+h 9 1 n
+r 7 9 s
+h 12 12 w
+r 11 18 s
+f 12 2 s
+r 4 5 n
+h 7 16 s
+r 9 10 n
+h 1 2 e
+r 16 16 n
+f 4 18 s
+f 3 17 n
+h 9 2 s
+r 8 12 s
+h 14 17 w
+h 14 18 e
+t 0 19 s
+t 19 0 n
+r 18 1 n
+h 7 18 w
+r 9 12 s
+f 5 17 e
+r 17 4 e
+h 16 19 w
+h 17 2 e
+h 13 2 n
+10 2
+
+1 16 
+4
+r 0 0 e
+h 0 2 e
+r 0 15 w
+h 0 13 w
+10 2
+
+20 20
+57
+h 3 3 e
+h 3 4 e
+h 3 5 e
+h 3 6 e
+h 3 7 e
+h 3 8 e
+h 3 9 e
+h 3 10 e
+h 3 11 e
+h 3 12 e
+h 3 13 e
+h 3 14 e
+h 3 15 e
+h 3 16 s
+h 4 16 s
+h 5 16 s
+h 6 16 s
+h 7 16 s
+h 8 16 s
+h 9 16 s
+h 10 16 s
+h 11 16 s
+h 12 16 s
+h 13 16 s
+h 14 16 s
+h 15 16 s
+h 16 16 w
+h 16 15 w
+h 16 14 w
+h 16 13 w
+h 16 12 w
+h 16 11 w
+h 16 10 w
+h 16 9 w
+h 16 8 w
+h 16 7 w
+h 16 6 w
+h 16 5 w
+h 16 4 w
+h 16 3 n
+h 15 3 n
+h 14 3 n
+h 13 3 n
+h 12 3 n
+h 11 3 n
+h 10 3 n
+h 9 3 n
+h 8 3 n
+h 7 3 n
+h 6 3 n
+h 5 3 n
+h 4 3 n
+r 10 10 n
+r 11 12 s
+r 4 5 e
+r 13 12 w
+r 15 5 n
+30 3
+
+17 19
+90
+t 2 4 n
+t 2 5 s
+t 2 6 e
+t 2 7 w
+t 2 8 n
+t 2 9 s
+t 2 10 e
+t 2 11 w
+t 2 12 s
+t 2 13 e
+t 3 3 e
+t 4 2 n
+t 5 1 e
+t 3 14 s
+t 4 15 e
+t 5 16 e
+t 6 0 w
+t 7 0 w
+t 8 0 n
+t 9 0 e
+t 10 0 e
+t 11 0 e
+t 12 0 s
+t 13 0 s
+t 6 17 s
+t 7 17 e
+t 8 17 e
+t 9 17 n
+t 10 17 e
+t 11 17 s
+t 12 17 s
+t 13 17 w
+t 14 1 w
+t 15 2 w
+t 14 16 e
+t 15 15 w
+t 16 3 s
+t 16 4 n
+t 16 5 n
+t 16 6 e
+t 16 7 e
+t 16 8 n
+t 16 9 s
+t 16 10 s
+t 16 11 e
+t 16 12 w
+t 16 13 n
+t 16 14 s
+r 4 5 n
+r 4 6 n
+r 5 5 w
+r 5 6 e
+r 6 5 s
+r 6 6 s
+r 4 11 n
+r 4 12 n
+r 5 11 w
+r 5 12 e
+r 6 11 s
+r 6 12 s
+h 9 2 n
+h 9 3 s
+h 9 4 e
+h 9 5 w
+h 9 6 w
+h 9 7 s
+h 9 8 s
+h 9 9 n
+h 9 10 n
+h 9 11 e
+h 9 12 s
+h 9 13 w
+h 9 14 n
+h 9 15 e
+h 10 2 e
+h 11 2 e
+h 10 15 s
+h 11 15 s
+h 12 3 w
+h 13 4 n
+h 14 5 e
+h 12 14 e
+h 13 13 e
+h 14 12 e
+h 15 6 w
+h 15 7 s
+h 15 8 n
+h 15 9 s
+h 15 10 n
+h 15 11 n
+20 2
