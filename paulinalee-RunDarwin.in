@@ -1,0 +1,203 @@
+10
+
+8 8
+6
+f 0 0 e
+h 3 3 n
+h 3 4 e
+h 4 4 s
+h 4 3 w
+f 7 7 n
+5 1
+
+7 9
+4
+t 0 0 s
+h 3 2 e
+r 5 4 n
+t 6 8 w
+5 1
+
+2 2
+1
+h 0 0 n
+1 1
+
+5 5
+2
+t 0 0 s
+h 0 0 s
+2 1
+
+10 10
+6
+r 2 3 n
+t 9 3 n
+h 0 0 s
+f 3 2 e
+f 2 2 w
+f 8 8 s
+30 5
+
+100 100
+20
+f 0 0 n
+f 0 1 n
+f 0 2 n
+f 0 3 n
+f 0 4 n
+f 0 5 n
+f 0 6 n
+f 0 7 n
+f 0 8 s
+f 0 9 e
+f 0 10 w
+t 2 0 e
+t 2 2 n
+t 2 3 s
+t 2 4 n
+t 2 30 s
+r 90 90 e
+r 90 92 w
+r 13 13 s
+r 14 14 n
+10 10
+
+50 50
+40
+f 12 3 n
+h 3 2 s
+t 5 1 n
+s 3 2 e
+t 8 3 w
+f 4 0 n
+h 5 0 s
+r 1 0 n
+t 1 2 e
+t 7 3 w
+f 1 1 n
+h 4 2 s
+r 5 4 n
+t 11 3 e
+r 1 2 n
+f 2 4 s
+f 25 11 n
+t 32 32 e
+r 49 3 w
+s 47 0 n
+t 44 10 s
+r 10 30 n
+t 10 32 e
+t 6 33 w
+f 30 1 n
+h 44 1 s
+r 2 23 n
+t 10 6 e
+f 10 3 n
+h 4 20 s
+r 23 1 n
+t 33 3 e
+t 9 9 w
+f 7 3 n
+h 33 0 s
+h 12 4 n
+f 11 26 e
+h 6 43 w
+t 0 41 n
+h 4 41 s
+20 2
+
+22 22
+58
+h 10 16 w
+h 11 16 e
+h 12 16 n
+h 13 16 s
+h 14 16 s
+h 15 16 e
+h 16 16 w
+h 16 20 w
+h 16 14 e
+h 16 13 n
+h 16 12 w
+h 16 11 w
+h 16 10 w
+h 2 1 e
+h 2 2 n
+h 2 3 e
+h 2 4 e
+h 2 6 s
+h 2 5 e
+h 2 8 e
+h 2 10 w
+f 2 11 e
+f 2 12 e
+f 2 13 s
+h 2 14 e
+h 2 15 n
+h 2 16 s
+h 4 16 s
+h 5 16 e
+t 6 16 s
+t 7 16 s
+t 8 16 n
+t 9 16 s
+h 16 9 w
+h 16 8 w
+h 16 7 w
+h 16 6 w
+h 16 5 w
+h 16 4 w
+t 16 3 n
+h 15 3 n
+t 14 3 n
+f 13 3 n
+h 12 3 n
+f 11 3 n
+h 10 3 n
+f 9 3 n
+h 8 3 n
+h 7 3 n
+h 6 3 n
+h 5 3 n
+h 4 3 n
+r 10 10 n
+r 11 12 s
+r 4 5 e
+r 13 12 w
+r 15 5 n
+r 16 6
+40 5
+
+35 35
+20
+t 0 0 n
+r 1 0 n
+f 2 0 e
+f 3 0 s
+f 4 0 s
+f 5 0 w
+f 6 0 n
+f 7 0 e
+f 8 0 s
+r 9 0 e
+r 10 0 w
+f 11 0 s
+f 12 0 n
+f 13 0 e
+f 14 0 w
+t 0 0 n
+t 9 9 e
+t 8 8 n
+t 7 7 s
+t 6 6 n
+5 1
+
+70 70
+5
+f 0 4 n
+f 1 2 e
+f 40 3 e
+f 15 23 e
+r 20 20 w
+6 2
