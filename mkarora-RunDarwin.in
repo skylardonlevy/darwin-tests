@@ -1,0 +1,219 @@
+11
+
+8 8
+6
+f 0 0 e
+h 3 3 n
+h 3 4 e
+h 4 4 s
+h 4 3 w
+f 7 7 n
+5 1
+
+7 9
+4
+t 0 0 s
+h 3 2 e
+r 5 4 n
+t 6 8 w
+5 1
+
+100 100
+10
+f 0 0 n
+h 0 1 n
+r 0 2 e
+t 0 1 s
+f 5 6 n
+h 99 99 n
+r 20 10 s
+t 3 4 w
+r 2 4 e
+r 5 7 e
+10 9
+
+1 1
+1
+h 0 0 n
+5 2
+
+300 300 
+50
+f 0 0 n
+h 0 1 s
+r 0 2 e
+t 0 3 w
+f 0 10 s
+f 10 1 n
+h 10 2 s
+r 10 6 n
+t 10 5 s
+f 1 45 e
+f 5 58 s
+h 6 94 w
+r 34 175 n
+t 45 46 s
+f 80 123 e
+f 2 177 w
+h 13 74 s
+r 26 47 e
+t 54 25 s
+f 90 48 w
+f 80 16 e
+h 40 36 n
+r 26 48 e
+t 80 69 s
+f 70 175 w 
+f 75 286 e
+h 38 275 s
+r 72 231 n
+t 153 156 e
+f 180 26 w
+f 147 58 s
+h 290 287 w
+r 264 34 n 
+t 267 74 e
+f 238 79 e
+f 290 56 s
+h 257 34 s
+r 287 56 s
+t 278 96 s
+f 159 100 n
+f 190 164 e
+h 136 190 s
+r 268 235 w
+t 234 22 s
+f 27 25 e
+f 74 56 w 
+h 89 37 s
+r 23 49 w
+t 25 20 e
+f 47 38 n
+20 8
+
+12 15
+13
+f 0 2 s
+h 1 9 s
+r 4 7 s
+h 2 9 s
+r 11 14 s
+t 6 9 s
+h 8 3 s
+f 7 1 s
+t 8 0 s
+t 2 2 s
+t 9 0 s
+r 8 9 s
+h 9 2 s
+9 3
+
+10 10
+36
+h 0 0 n
+h 0 1 n
+h 0 2 n
+h 0 3 n
+h 0 4 n
+h 0 5 n
+h 0 6 n
+h 0 7 n
+h 0 8 n
+h 0 9 n
+h 9 0 s
+h 9 1 s
+h 9 2 s
+h 9 3 s
+h 9 4 s
+h 9 5 s
+h 9 6 s
+h 9 7 s
+h 9 8 s
+h 9 9 s
+h 1 0 w
+h 2 0 w
+h 3 0 w
+h 4 0 w
+h 5 0 w
+h 6 0 w
+h 7 0 w
+h 8 0 w
+h 1 9 e
+h 2 9 e
+h 3 9 e
+h 4 9 e
+h 5 9 e
+h 6 9 e
+h 7 9 e
+h 8 9 e
+11 2
+
+9 9
+11
+h 0 0 n
+h 1 1 s
+h 1 2 e
+h 1 3 w
+h 1 4 s
+h 1 5 e
+h 8 0 e
+h 8 4 n
+h 8 3 w
+h 8 6 s
+t 3 3 w
+20 2
+
+1 6
+1
+h 0 0 e
+5 1
+
+9 9
+40
+h 0 0 n
+t 0 1 s
+f 0 2 w
+r 0 3 e
+h 0 4 n
+t 0 5 s
+f 0 6 w
+r 0 7 e
+h 0 8 n
+t 1 0 s
+f 1 1 w
+r 1 2 e
+h 1 3 n
+t 1 4 s
+f 1 5 w
+r 1 6 e
+h 1 7 n
+t 1 8 s
+f 2 0 w
+r 2 1 e
+h 2 2 n
+t 2 3 s
+f 2 4 w
+r 2 5 e
+h 2 6 n
+t 2 7 s
+f 2 8 w
+r 3 0 e
+h 3 1 n
+t 3 2 s
+f 3 3 w
+r 3 4 e
+h 3 5 n
+t 3 6 s
+f 3 7 w
+r 3 8 e
+h 4 0 n
+t 4 1 s
+f 4 2 w
+r 4 3 e
+1 1
+
+7 6
+2
+r 3 4 s
+t 5 4 w
+5 2
